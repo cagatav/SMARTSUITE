@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="clrLightBlue">#58BCF3</color>
+    <color name="clrGreen">#4ACA5F</color>
+    <color name="clrDarkBlue">#111441</color>
+    <color name="clrWhite">#FFF</color>
+    <color name="clrBlue">#145798</color>
+    <color name="clrRed">#FF4444</color>
+    <color name="clrLightGray">#F3F4F3</color>
+    <color name="clrPurple">#8692f7</color>
+    <color name="clrBlack">#000</color>
+
+    <color name="gray">#F3F4F3</color>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+    <color name="dark_indigo">#0b145b</color>
+    <color name="greyish_teal">#5ebd97</color>
+    <color name="light_peach">#DC976E</color>
+
+</resources>

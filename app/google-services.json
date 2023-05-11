@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "129093752607",
+    "project_id": "smartsuite-84554",
+    "storage_bucket": "smartsuite-84554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129093752607:android:5e3e03821a72f997f7c22a",
+        "android_client_info": {
+          "package_name": "com.example.smartsuite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129093752607-kbfp1kp3sd1d15gvspuc5e4c3b5n83ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRTpOFuK6D4kpNer45H7VEiOnoK6bmvlU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129093752607-kbfp1kp3sd1d15gvspuc5e4c3b5n83ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
