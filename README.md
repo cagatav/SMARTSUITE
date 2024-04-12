@@ -17,7 +17,7 @@ SmartSuite is a comprehensive mobile application for hotel management. It is des
 
 1. Clone the project repository:
     ```bash
-    git clone https://github.com/username/suitsuite.git
+    git clone https://github.com/cagatav/SMARTSUITE
     ```
 2. Open the project in Android Studio.
 3. Create a new project in the Google Firebase console and make the necessary configurations for the application.
